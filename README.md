@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clementclem
 - 👀 I’m interested in software engineering and data science 
-- 🌱 I’m currently coding skills 
+- 🌱 I’m currently working on coding skills 
 - 💞️ I’m looking to collaborate on software engineering 
 - 📫 How to reach me email me on clementnyambura23@gmail.com 
 
